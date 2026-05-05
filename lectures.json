@@ -158,8 +158,63 @@
           
         }
       ]
+    },
+    {
+      "name": "Caqiidah",
+      "playlists": [
+        {
+          "playlist_name": "Usuulu Thalaathah",
+          "playlist_description": "Thalaathat-ul-Usool (Saddexda Asaas ee Muhiimka ah) waa buug aasaasi ah oo uu qoray Sheekh Muhammad ibn Abdul-Wahhaab. Wuxuu sharxaa saddex su’aalood oo muhiim ah oo qofka lagu weydiin doono qabrigiis oo ku saabsan: Rabbigiisa, diintiisa, iyo nebigiisa.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Lesson 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Thalaatha/01%20Usuulu%20Thalathah%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Lesson 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Thalaatha/02%20Usuulu%20Thalathah%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Lesson 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Thalaatha/03%20Usuulu%20Thalathah%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Lesson 4",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Thalaatha/04%20Usuulu%20Thalathah%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Lesson 5",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Thalaatha/05%20Usuulu%20Thalathah%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Lesson 6",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Thalaatha/06%20Usuulu%20Thalathah%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Lesson 7",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Thalaatha/07%20Usuulu%20Thalathah%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Lesson 8",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Thalaatha/08%20Usuulu%20Thalathah%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Lesson 9",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Thalaatha/09%20Usuulu%20Thalathah%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        }
+      ]
     }
   ]
 
-  
 }
