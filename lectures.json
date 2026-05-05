@@ -89,6 +89,73 @@
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Al_Waraqaat/16%20Alwaraqaat~Sh.%20Xassaan.mp3"
             }
           ]
+        },
+        {
+          "playlist_name": "Minhaajul Wusuul ilaa Cilmul Usuul",
+          "playlist_description": "Al-Waraqaat waa mid ka mid ah kutubta ugu caansan oo quseeya cilmiga Uusuul al-Fiqh (Aasaaska Diinta), waxaana qoray caalimkii caanka ahaa ee madhabka Shaaficiga, Imaam al-Haramayn al-Juwayni. Waa kitaab kooban oo loogu talagalay ardayda bilowga ah si ay u fahmaan sida loo soo saaro axkaamta shareecada. Buuggani waxa uu u adeegaa fahamsiiska: xukunnada shareecada, daliillada (Quraanka, Sunnada, Ijmaaca, iyo Qiyaasta), iyo hababka laga soo saaro xukunnada (Ijtihad).",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Lesson 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Minhaajul_Wusuul/02%20Minhaajul%20Wusuul%20ilaa%20Cilmul%20Usuul~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Lesson 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Minhaajul_Wusuul/03%20Minhaajul%20Wusuul%20ilaa%20Cilmul%20Usuul~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Lesson 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Minhaajul_Wusuul/04%20Minhaajul%20Wusuul%20ilaa%20Cilmul%20Usuul~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Lesson 4",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Minhaajul_Wusuul/05%20Minhaajul%20Wusuul%20ilaa%20Cilmul%20Usuul~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Lesson 5",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Minhaajul_Wusuul/06%20Minhaajul%20Wusuul%20ilaa%20Cilmul%20Usuul~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Lesson 6",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Minhaajul_Wusuul/07%20Minhaajul%20Wusuul%20ilaa%20Cilmul%20Usuul~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Lesson 7",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Minhaajul_Wusuul/08%20Minhaajul%20Wusuul%20ilaa%20Cilmul%20Usuul~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Lesson 8",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Minhaajul_Wusuul/09%20Minhaajul%20Wusuul%20ilaa%20Cilmul%20Usuul~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Lesson 9",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Minhaajul_Wusuul/10%20Minhaajul%20Wusuul%20ilaa%20Cilmul%20Usuul~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Lesson 10",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Minhaajul_Wusuul/11%20Minhaajul%20Wusuul%20ilaa%20Cilmul%20Usuul~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Lesson 11",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Minhaajul_Wusuul/12%20Minhaajul%20Wusuul%20ilaa%20Cilmul%20Usuul~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 12,
+              "title": "Lesson 12",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Minhaajul_Wusuul/13%20Minhaajul%20Wusuul%20ilaa%20Cilmul%20Usuul~Sh.%20Xassaan.mp3"
+            }
+          ]
+          
         }
       ]
     }
