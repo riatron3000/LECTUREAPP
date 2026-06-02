@@ -214,6 +214,77 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Xadiith",
+      "playlists": [
+        {
+          "playlist_name": "Arbaciin Nawawi",
+          "playlist_description": "Al-Arba’iin An-Nawawiyyah (Afartanka Xadiis ee Imaam An-Nawawi) waa ururin aad loo qadariyo oo ka kooban 42 xadiis oo aasaasi ah oo uu yiri Nebi Muxammad (NNKH). Waxaa soo ururiyey caalimkii caanka ahaa Imaam Yaxyaa ibnu Sharaaf An-Nawawi, waxaana ay ka hadlaysaa mabaadi’da ugu muhiimsan ee Shareecada Islaamka, Iimaanka, iyo Ixsaanka.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Lesson 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Arbiciin_Nawawi/01%20Arbiciin%20Nawawi%20Xadiithka%20(1)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Lesson 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Arbiciin_Nawawi/02%20Arbiciin%20Nawawi%20Xadiithka%20(2)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Lesson 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Arbiciin_Nawawi/03%20Arbiciin%20Nawawi%20Xadiithka%20(3-4)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Lesson 4",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Arbiciin_Nawawi/04%20Arbiciin%20Nawawi%20Xadiithka%20(5-7)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Lesson 5",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Arbiciin_Nawawi/05%20Arbiciin%20Nawawi%20Xadiithka%20(8-10)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Lesson 6",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Arbiciin_Nawawi/06%20Arbiciin%20Nawawi%20Xadiithka%20(11-14)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Lesson 7",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Arbiciin_Nawawi/07%20Arbiciin%20Nawawi%20Xadiithka%20(15-19)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Lesson 8",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Arbiciin_Nawawi/08%20Arbiciin%20Nawawi%20Xadiithka%20(19-23)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Lesson 9",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Arbiciin_Nawawi/09%20Arbiciin%20Nawawi%20Xadiithka%20(24-27)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Lesson 10",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Arbiciin_Nawawi/10%20Arbiciin%20Nawawi%20Xadiithka%20(28-30)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Lesson 11",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Arbiciin_Nawawi/11%20Arbiciin%20Nawawi%20Xadiithka%20(31-34)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 12,
+              "title": "Lesson 12",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Arbiciin_Nawawi/12%20Arbiciin%20Nawawi%20Xadiithka%20(35-42)~%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        }
+      ]
     }
   ]
 
