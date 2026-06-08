@@ -285,6 +285,42 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Xayaati Saxaabah",
+      "playlists": [
+        {
+          "playlist_name": "Xayaati Saxaabah",
+          "playlist_description": "Xayaati Saxaabah waa buug ka hadlaya taariikhda iyo nolosha saxaabada Nebi Muxammad (SCW). Buugani wuxuu soo bandhigayaa sheekooyin iyo dhacdooyin ku saabsan saxaabada ugu dhowaa Nebiga (NNKH) oo kaalin weyn ka qaata taariiqdha Islaamka.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Lesson 1",
+              "audio_url": "https://www.youtube.com/watch?v=tSGYCMkbRLM"
+            },
+            {
+              "id": 2,
+              "title": "Lesson 2",
+              "audio_url": "https://www.youtube.com/watch?v=K9iHLEdsz_E"
+            },
+            {
+              "id": 3,
+              "title": "Lesson 3",
+              "audio_url": "https://www.youtube.com/watch?v=p5mj-RtLWq8"
+            },
+            {
+              "id": 4,
+              "title": "Lesson 4",
+              "audio_url": "https://www.youtube.com/watch?v=PnpVqsWywJY"
+            },
+            {
+              "id": 5,
+              "title": "Lesson 5",
+              "audio_url": "https://www.youtube.com/watch?v=8wXVzPvqWcM"
+            }
+          ]
+        }
+      ]
     }
   ]
 
