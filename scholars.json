@@ -1,0 +1,46 @@
+{
+  "speakers": [
+    {
+      "name": "Sh Xassaan Xuseen",
+      "playlists": [
+        {
+          "playlist_name": "Muxaadarooyinka Sh Xassaan Xuseen",
+          "playlist_description": "Al-Waraqaat waa mid ka mid ah kutubta caanka oo quseeya cilmiga Uusuul al-Fiqh (Aasaaska Diinta). Waa kitaab kooban u adeegaa fahamsiiska: xukunnada shareecada, daliillada (Quraanka, Sunnada, Ijmaaca, iyo Qiyaasta), iyo hababka laga soo saaro xukunnada (Ijtihad).",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Akhlaaqda Muuminiinta",
+              "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Sh_Xassaan%20Xuseen/Akhlaaqda%20Muuminiinta~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Al Walaa wal Baraa",
+              "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Sh_Xassaan%20Xuseen/Al-Walaa%20Wal-Baraa~Sh.%20Xassaan.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sh Cismaan Shire",
+      "playlists": [
+        {
+          "playlist_name": "Muxaadarooyinka Sh Cismaan Shire",
+          "playlist_description": "Al-Waraqaat waa mid ka mid ah kutubta caanka oo quseeya cilmiga Uusuul al-Fiqh (Aasaaska Diinta). Waa kitaab kooban u adeegaa fahamsiiska: xukunnada shareecada, daliillada (Quraanka, Sunnada, Ijmaaca, iyo Qiyaasta), iyo hababka laga soo saaro xukunnada (Ijtihad).",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Akhlaaqda Muuminiinta",
+              "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Cismaan_Shire/Muxaadarooyinka_Sh_Cismaan%20Shire/Akhlaaqda%20Muuminiinta~%20Sh.%20Cismaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Al Walaa wal Baraa",
+              "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Cismaan_Shire/Muxaadarooyinka_Sh_Cismaan%20Shire/Al-Walaa%20Wal-Baraa~Sh.%20Cismaan.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
