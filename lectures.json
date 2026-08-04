@@ -287,6 +287,82 @@
       ]
     },
     {
+      "name": "Faraa'id",
+      "playlists": [
+        {
+          "playlist_name": "Raxbiyah",
+          "playlist_description": "Al-Rahbiyyah waa gabay cilmiyeed Islaami oo ka mid ah kuwa ugu caansan ka hadla cilmiga qaybsiga dhaxalka (Cilmul Faraa'id). Waxaa tiriyay caalimkii Shaafici Muxammad bin Cali al-Rahbi Imam Muuse Al-Rahbi, wuxuunna fududeeyay barashada xeerarka dhaxalka.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Cashar 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Raxbiyah/01%20Raxbiyah(Faraa'id)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Cashar 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Raxbiyah/02%20Raxbiyah(Faraa'id)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Cashar 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Raxbiyah/03%20Raxbiyah(Faraa'id)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Cashar 4",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Raxbiyah/04%20Raxbiyah(Faraa'id)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Cashar 5",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Raxbiyah/05%20Raxbiyah(Faraa'id)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Cashar 6",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Raxbiyah/06%20Raxbiyah(Faraa'id)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Cashar 7",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Raxbiyah/07%20Raxbiyah(Faraa'id)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Cashar 8",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Raxbiyah/08%20Raxbiyah(Faraa'id)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Cashar 9",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Raxbiyah/09%20Raxbiyah(Faraa'id)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Cashar 10",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Raxbiyah/10%20Raxbiyah(Faraa'id)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Cashar 11",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Raxbiyah/11%20Raxbiyah(Faraa'id)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 12,
+              "title": "Cashar 12",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Raxbiyah/12%20Raxbiyah(Faraa'id)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 13,
+              "title": "Cashar 13",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Raxbiyah/13%20Raxbiyah(Faraa'id)~Sh.%20Xassaan.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Xayaati Saxaabah",
       "playlists": [
         {
