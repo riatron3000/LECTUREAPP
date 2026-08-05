@@ -2,6 +2,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.responses import StreamingResponse
 import requests
 import json
+import hashlib
 
 app = FastAPI()
 
@@ -19,6 +20,15 @@ def get_playlist():
 @app.get("/scholars")
 def get_scholars():
     return scholars
+
+@app.get("/version")
+def get_version():
+    with open("lectures.json", "rb") as f:
+        version = hashlib.md5(f.read()).hexdigest()
+
+    return {
+        "version": version
+    }
 
 
 @app.get("/audio/{lecture_id}")
