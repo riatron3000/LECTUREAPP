@@ -23,11 +23,14 @@ def get_scholars():
 
 @app.get("/version")
 def get_version():
-    with open("lectures.json", "rb") as f:
-        version = hashlib.md5(f.read()).hexdigest()
+    hasher = hashlib.md5()
+
+    for filename in ["lectures.json", "scholars.json"]:
+        with open(filename, "rb") as f:
+            hasher.update(f.read())
 
     return {
-        "version": version
+        "version": hasher.hexdigest()
     }
 
 
