@@ -12,6 +12,9 @@ with open("lectures.json", "r") as f:
 with open("scholars.json", "r") as f:
     scholars = json.load(f)
 
+with open("whatsnew.json", "r") as f:
+    newContent = json.load(f)
+
 
 @app.get("/playlist")
 def get_playlist():
@@ -20,6 +23,10 @@ def get_playlist():
 @app.get("/scholars")
 def get_scholars():
     return scholars
+
+@app.get("/whats-new")
+def get_new():
+    return newContent
 
 @app.get("/version")
 def get_version():

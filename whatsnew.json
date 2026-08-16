@@ -1,0 +1,31 @@
+{
+    "whats_new": [
+        {
+            "id": 1,
+            "title": "Navigation Deep Dive",
+            "thumbnail": "...",
+            "videoId": "abc123",
+            "videoSource": "youtube",
+            "duration": 2400,
+            "publishedAt": ""
+        },
+        {
+            "id": 2,
+            "title": "Async Storage",
+            "thumbnail": "...",
+            "videoId": "xyz789",
+            "videoSource": "youtube",
+            "duration": 1800,
+            "publishedAt": ""
+        },
+        {
+            "id": 3,
+            "title": "Animations",
+            "thumbnail": "...",
+            "videoId": "kdl93j",
+            "videoSource": "youtube",
+            "duration": 3000,
+            "publishedAt":""
+        }
+]
+}
