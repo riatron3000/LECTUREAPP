@@ -32,7 +32,7 @@ def get_new():
 def get_version():
     hasher = hashlib.md5()
 
-    for filename in ["lectures.json", "scholars.json"]:
+    for filename in ["lectures.json", "scholars.json", "whatsnew.json"]:
         with open(filename, "rb") as f:
             hasher.update(f.read())
 
