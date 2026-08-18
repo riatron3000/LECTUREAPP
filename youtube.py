@@ -101,7 +101,11 @@ def update_youtube():
             "title": snippet["title"],
 
             # Your fixed thumbnail
-            "thumbnail": snippet["thumbnails"]["high"]["url"],
+            "thumbnail": (
+    snippet["thumbnails"].get("maxres", {}).get("url")
+    or snippet["thumbnails"].get("high", {}).get("url")
+    or snippet["thumbnails"].get("medium", {}).get("url")
+),
 
             "videoId": video["id"],
             "videoSource": "youtube",
