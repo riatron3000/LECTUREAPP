@@ -33,7 +33,9 @@ def get_new():
 @app.get("/version")
 def get_version():
     # Check YouTube for new videos only when the app contacts this endpoint.
-    update_youtube()
+    global newContent
+
+    newContent = update_youtube()
 
     hasher = hashlib.md5()
 

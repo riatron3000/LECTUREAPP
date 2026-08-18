@@ -113,6 +113,12 @@ def update_youtube():
     # Save the new videos
     # ---------------------------------------------------------
 
+    # ... check YouTube ...
+
+    if video_ids == current_ids:
+        return current_data
+
+
     with open("whatsnew.json", "w", encoding="utf-8") as f:
         json.dump(
             new_data,
@@ -120,3 +126,5 @@ def update_youtube():
             indent=4,
             ensure_ascii=False
         )
+    return new_data
+
