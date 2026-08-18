@@ -4,6 +4,8 @@ import requests
 import json
 import hashlib
 
+from youtube import update_youtube
+
 app = FastAPI()
 
 with open("lectures.json", "r") as f:
@@ -30,9 +32,16 @@ def get_new():
 
 @app.get("/version")
 def get_version():
+    # Check YouTube for new videos only when the app contacts this endpoint.
+    update_youtube()
+
     hasher = hashlib.md5()
 
-    for filename in ["lectures.json", "scholars.json", "whatsnew.json"]:
+    for filename in [
+        "lectures.json", 
+        "scholars.json", 
+        "whatsnew.json"
+    ]:
         with open(filename, "rb") as f:
             hasher.update(f.read())
 
