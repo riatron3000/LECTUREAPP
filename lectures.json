@@ -160,6 +160,92 @@
       ]
     },
     {
+      "name": "Culuumul Quraan",
+      "playlists": [
+        {
+          "playlist_name": "Muqadamatu Al Tafsiir",
+          "playlist_description": "Muqaddimat al-Tafsīr waa qoraal hordhac u ah cilmiga tafsiirka Quraanka, oo ka hadlaya mabaadi’da, xeerarka iyo aqoonta aasaasiga ah ee uu u baahan yahay qofka doonaya inuu si sax ah u fahmo una fasirto Aayadaha Quraanka. Wuxuu sharxaa arrimo la xiriira fahamka macnaha Quraanka, sababaha loo soo dejiyay aayadaha, iyo qawaaniinta lagu garto tafsiirka saxda ah.",
+          "lectures": [
+            {
+              "id": 1,
+              "title":"Casharka 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/01%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title":"Casharka 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/02%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title":"Casharka 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/03%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title":"Casharka 4",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/04%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title":"Casharka 5",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/05%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title":"Casharka 6",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/06%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title":"Casharka 7",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/07%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title":"Casharka 8",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/08%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title":"Casharka 9",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/09%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 10,
+              "title":"Casharka 10",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/10%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 11,
+              "title":"Casharka 11",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/11%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 12,
+              "title":"Casharka 12",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/12%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 13,
+              "title":"Casharka 13",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/13%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 14,
+              "title":"Casharka 14",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/14%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 15,
+              "title":"Casharka 15",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/15%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Caqiidah",
       "playlists": [
         {
@@ -283,6 +369,107 @@
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Arbiciin_Nawawi/12%20Arbiciin%20Nawawi%20Xadiithka%20(35-42)~%20Sh.%20Xassaan.mp3"
             }
           ]
+        },
+        {
+          "playlist_name": "Shamaail Al Muxamaddiyah",
+          "playlist_description": "Shama'il al-Muxamaddiya waa kitaab caan ah oo lagu ururiyey axaadiista ka warramaysa shamā'ilka Rasuulka Alle (SAW), oo uu qoray Imaam al-Tirmidhi. Waxa uu si xeeldheer u faahfaahinayaa tilmaamaha jidheed, hab-dhaqankii maalinlaha ahaa, akhlaaqdiisii suubbaneed, iyo guud ahaan noloshii Nebi Muxammad (SAW).",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Xadiiska 1-6",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/01%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(1-6)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Xadiiska 7-11",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/02%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(7-11)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Xadiiska 12-21",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/03%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(12-21)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Xadiiska 22-36",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/04%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(22-36)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Xadiiska 37-48",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/05%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(37-48)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Xadiiska 49-70",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/06%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(49-70)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Xadiiska 71-86",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/07%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(71-86)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Xadiiska 87-122",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/08%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(87-122)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Xadiiska 123-134",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/09%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(123-134)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Xadiiska 134-162",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/10%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(134-162)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Xadiiska 163-187",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/11%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(163-187)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 12,
+              "title": "Xadiiska 188-225",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/12%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(188-225)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 13,
+              "title": "Xadiiska 226-240",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/13%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(226-240)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 14,
+              "title": "Xadiiska 241-275",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/14%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(241-275)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 15,
+              "title": "Xadiiska 276-297",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/15%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(276-297)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 16,
+              "title": "Xadiiska 298-355",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/16%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(298-355)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 17,
+              "title": "Xadiiska 336-350",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/17%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(336-350)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 18,
+              "title": "Xadiiska 351-392",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/18%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(351-392)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 19,
+              "title": "Xadiiska 393-415",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/19%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(393-415)~%20Sh.%20Xassaan.mp3"
+            }
+          ]
         }
       ]
     },
@@ -357,6 +544,32 @@
               "id": 13,
               "title": "Casharka 13",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Raxbiyah/13%20Raxbiyah(Faraa'id)~Sh.%20Xassaan.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adabka",
+      "playlists": [
+        {
+          "playlist_name": "Qasiidatu Cinwan Al-Xikam",
+          "playlist_description": "Qasiidatu Cinwaanu’l-Xikam waa gabay caan ah oo ka mid ah qoraallada xigmadda iyo tarbiyadda ruuxiga ah. Waxa ay ka kooban tahay waanooyin iyo tilmaamo ku saabsan sifaynta nafta, ikhlaaska, Alle talo saarashada, ka fogaanshaha ku-xirnaanta adduunyada, toobadda, akhlaaqda wanaagsan, iyo hagaajinta xiriirka addoonka iyo Rabbigiis.",
+          "lectures": [
+            {
+              "id": 1,
+              "title":"Casharka 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Qasiidatu_Cinwaanul_Xikam/01%20Qasiidatu%20Cunwaanul%20Xikam~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title":"Casharka 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Qasiidatu_Cinwaanul_Xikam/02%20Qasiidatu%20Cunwaanul%20Xikam~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title":"Casharka 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Qasiidatu_Cinwaanul_Xikam/03%20Qasiidatu%20Cunwaanul%20Xikam~%20Sh.%20Xassaan.mp3"
             }
           ]
         }
