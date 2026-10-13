@@ -17,6 +17,9 @@ with open("scholars.json", "r") as f:
 with open("whatsnew.json", "r") as f:
     newContent = json.load(f)
 
+with open("qanda.json", "r") as f:
+    qanda = json.load(f)
+
 
 @app.get("/playlist")
 def get_playlist():
@@ -30,6 +33,10 @@ def get_scholars():
 def get_new():
     return newContent
 
+@app.get("/qanda")
+def get_qanda():
+    return qanda
+
 @app.get("/version")
 def get_version():
     # Check YouTube for new videos only when the app contacts this endpoint.
@@ -42,7 +49,8 @@ def get_version():
     for filename in [
         "lectures.json", 
         "scholars.json", 
-        "whatsnew.json"
+        "whatsnew.json",
+        "qanda.json"
     ]:
         with open(filename, "rb") as f:
             hasher.update(f.read())

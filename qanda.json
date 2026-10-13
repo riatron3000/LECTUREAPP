@@ -1,0 +1,97 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "name": "Caqiidada",
+      "description": "Suualo quseeya rumaysadka aasaasiga ah ee qofka Muslimka ah, kaas oo si sugan ugu qotoma qalbigiisa, isaga oo aan wax shaki ah ka qabin.",
+      "questions": 22,
+      "icon": "book-open",
+      "iconColor": "#3F7C68",
+      "iconBg": "#E1EDE6",
+      "playlists": [
+        {
+          "playlist_name": "Suaal iyo Jawaab: Caqiidada",
+          "playlist_description": "Halkaan waxaad ka heli suaalo iyo jawwaabo quseeya caqiidada.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Lacag Maku Bixin Karaa Masjid Laga Taageero Doorashooyinka Baarlamaanka?",
+              "audio_url": "https://daarulxadiith.com/wp-content/uploads/2024/09/07-Lacag-Maku-Bixin-Karaa-Masjid-Laga-Taageero-Doorashooyinka-Baarlamaanka-Sh.-Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Ashcaariyo Alle Iyo Nabiga (Scw) Quraanka Maxay Ka Aaminsan Yihiin?",
+              "audio_url": "https://daarulxadiith.com/wp-content/uploads/2024/09/Ashaaciro-Alle-Iyo-Nabiga-Scw-Quraanka-Maxay-Ka-Aaminsan-Yihiin-Sh.-Xassaan.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Salaada",
+      "description": "Suaalo quseeya salaada.",
+      "questions": 4,
+      "icon": "scale",
+      "iconColor": "#5B608B",
+      "iconBg": "#E9E8FR",
+      "playlists": [
+        {
+          "playlist_name": "Suaal iyo Jawaab: Salaada",
+          "playlist_description": "Halkaan waxaad ka heli suaalo iyo jawwaabo quseeya salaada.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Qof Safar Ah Oo Salaadii Duhur Dib Udhigay Kadib Magaaladiisii Yimid Muxuu Samayn?",
+              "audio_url": "https://daarulxadiith.com/wp-content/uploads/2024/09/08-Maxay-Quraanka-Ka-Aaminsan-Yihiin-Sh.-Xassaan.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Arimaha Qoyska",
+      "description": "Suaalo quseeya arimaha qoyska.",
+      "questions": 8,
+      "icon": "compass",
+      "iconColor": "#82704F",
+      "iconBg": "#EFE8D9",
+      "playlists": [
+        {
+          "playlist_name": "Suaal iyo Jawaab: Arimaha Qoyska",
+          "playlist_description": "Halkaan waxaad ka heli suaalo iyo jawwaabo quseeya arimaha qoyska.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Hadii 2ba Isqabay Dalqadihii Kadhamadaan Maxay Samayn?",
+              "audio_url": "https://daarulxadiith.com/wp-content/uploads/suaalo%20goos%20goos%20ah/Ninkayga%20Haduu%20I%20Amro%20Wax%20Aanan%20Awoodin%20Oo%20Aan%20Diido%20Ma%20Dembi%20Baa_%20__%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Suaalo Guud",
+      "description": "Suaalo quseeya arimaha guud ee nolosha.",
+      "questions": 18,
+      "icon": "book-open",
+      "iconColor": "#AD6267",
+      "iconBg": "#F5E5E5",
+      "playlists": [
+        {
+            "playlist_name": "Suaal iyo Jawaab: Arimaha Guud",
+            "playlist_description": "Halkaan waxaad ka heli suaalo iyo jawwaabo quseeya arimaha guud ee nolosha.",
+            "lectures": [
+                {
+                    "id": 1,
+                    "title": "Cirada ma lamadoobayn karaa",
+                    "audio_url": "https://daarulxadiith.com/mp3/Suaalo/Cirada%20ma%20lamadoobayn%20karaa%20Sh%20Xassaan.mp3"
+                }
+            ]
+        }
+      ]
+    }
+  ]
+}
