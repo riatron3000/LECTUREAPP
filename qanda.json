@@ -5,7 +5,7 @@
       "name": "Caqiidada",
       "description": "Suualo quseeya rumaysadka aasaasiga ah ee qofka Muslimka ah, kaas oo si sugan ugu qotoma qalbigiisa, isaga oo aan wax shaki ah ka qabin.",
       "questions": 22,
-      "icon": "book-open",
+      "icon": "pan-tool-alt",
       "iconColor": "#3F7C68",
       "iconBg": "#E1EDE6",
       "playlists": [
@@ -32,7 +32,7 @@
       "name": "Salaada",
       "description": "Suaalo quseeya salaada.",
       "questions": 4,
-      "icon": "scale",
+      "icon": "mosque",
       "iconColor": "#5B608B",
       "iconBg": "#E9E8FR",
       "playlists": [
@@ -43,29 +43,22 @@
             {
               "id": 1,
               "title": "Qof Safar Ah Oo Salaadii Duhur Dib Udhigay Kadib Magaaladiisii Yimid Muxuu Samayn?",
-              "audio_url": "https://daarulxadiith.com/wp-content/uploads/2024/09/08-Maxay-Quraanka-Ka-Aaminsan-Yihiin-Sh.-Xassaan.mp3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Arimaha Qoyska",
-      "description": "Suaalo quseeya arimaha qoyska.",
-      "questions": 8,
-      "icon": "compass",
-      "iconColor": "#82704F",
-      "iconBg": "#EFE8D9",
-      "playlists": [
-        {
-          "playlist_name": "Suaal iyo Jawaab: Arimaha Qoyska",
-          "playlist_description": "Halkaan waxaad ka heli suaalo iyo jawwaabo quseeya arimaha qoyska.",
-          "lectures": [
+              "audio_url": "https://daarulxadiith.com/wp-content/uploads/2024/09/Qof-Safar-Ah-Oo-Salaadii-Duhur-Dib-Udhigay-Kadib-Magaaladiisii-Yimid-Muxuu-Samayn-Sh.-Xassaan.mp3"
+            },
             {
-              "id": 1,
-              "title": "Hadii 2ba Isqabay Dalqadihii Kadhamadaan Maxay Samayn?",
-              "audio_url": "https://daarulxadiith.com/wp-content/uploads/suaalo%20goos%20goos%20ah/Ninkayga%20Haduu%20I%20Amro%20Wax%20Aanan%20Awoodin%20Oo%20Aan%20Diido%20Ma%20Dembi%20Baa_%20__%20Sh.%20Xassaan.mp3"
+              "id": 2,
+              "title": "Dad Qaawan Salaad Ma Isku Xiran Karaan?",
+              "audio_url": "https://daarulxadiith.com/wp-content/uploads/2024/09/Dad-Qaawan-Salaad-Ma-Isku-Xiran-Karaan-__-Sh-.Xassaan-1.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Salaadaha Mala Isku Dari Karaa Xiliga Xagaaga Ee Yurub Iyo Ameerika?",
+              "audio_url": "https://daarulxadiith.com/wp-content/uploads/2024/09/Salaadaha-Mala-Isku-Dari-Karaa-Xiliga-Xagaaga-Ee-Yurub-Iyo-Ameerika-__-Sh.-Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Hadii Aan Safraayo Oo Aan Garoonka Diyaarada Wali Joogo Salaadaha Ma Gaabin Karaa?",
+              "audio_url": "https://daarulxadiith.com/wp-content/uploads/2024/09/Hadii-Aan-Safraayo-Oo-Aan-Garoonka-Diyaarada-Wali-Joogo-Salaadaha-Ma-Gaabin-Karaa-__-Sh.-Xassaan.mp3"
             }
           ]
         }
@@ -76,22 +69,80 @@
       "name": "Suaalo Guud",
       "description": "Suaalo quseeya arimaha guud ee nolosha.",
       "questions": 18,
-      "icon": "book-open",
+      "icon": "question",
       "iconColor": "#AD6267",
       "iconBg": "#F5E5E5",
       "playlists": [
         {
-            "playlist_name": "Suaal iyo Jawaab: Arimaha Guud",
-            "playlist_description": "Halkaan waxaad ka heli suaalo iyo jawwaabo quseeya arimaha guud ee nolosha.",
-            "lectures": [
-                {
-                    "id": 1,
-                    "title": "Cirada ma lamadoobayn karaa",
-                    "audio_url": "https://daarulxadiith.com/mp3/Suaalo/Cirada%20ma%20lamadoobayn%20karaa%20Sh%20Xassaan.mp3"
-                }
-            ]
+          "playlist_name": "Suaal iyo Jawaab: Arimaha Guud",
+          "playlist_description": "Halkaan waxaad ka heli suaalo iyo jawwaabo quseeya arimaha guud ee nolosha.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Cirada Ma Lamadoobayn Karaa?",
+              "audio_url": "https://daarulxadiith.com/mp3/Suaalo/Cirada%20ma%20lamadoobayn%20karaa%20Sh%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Timaha Mala Abuuran Karaa?",
+              "audio_url": "https://daarulxadiith.com/mp3/Suaalo/Timaha%20Mala%20Abuuran%20Karaa.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Fiqhi",
+      "description": "Suaalo quseeya fiqiga, qaasatan Silsilatu Hudaa wa Nuur.",
+      "questions": 8,
+      "icon": "balance-scale",
+      "iconColor": "#F2A154",
+      "iconBg": "#FDF1E9",
+      "playlists": [
+        {
+          "playlist_name": "Suaal iyo Jawaab: Fiqhi",
+          "playlist_description": "Halkaan waxaad ka heli suaalo iyo jawwaabo quseeya fiqiga, qaasatan Silsilatu Hudaa wa Nuur.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "1 - Silsilatu Hudaa Wa Nuur",
+              "audio_url": "https://daarulxadiith.com/mp3/Suaalo/01%20Silsilatu%20Hudaa%20Wa%20Nuur%20Mar07%202010~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "2 - Silsilatu Hudaa Wa Nuur",
+              "audio_url": "https://daarulxadiith.com/mp3/Suaalo/02%20Silsilatu%20Hudaa%20Wa%20Nuur%20April25%202010~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "3 - Silsilatu Hudaa Wa Nuur",
+              "audio_url": "https://daarulxadiith.com/mp3/Suaalo/03%20Silsilatu%20Hudaa%20Wa%20Nuur%20Aug07%202010~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "4 - Silsilatu Hudaa Wa Nuur",
+              "audio_url": "https://daarulxadiith.com/mp3/Suaalo/04%20Silsilatu%20Hudaa%20Wa%20Nuur%20Dec23%202012~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "5 - Silsilatu Hudaa Wa Nuur",
+              "audio_url": "https://daarulxadiith.com/mp3/Suaalo/05%20Silsilatu%20Hudaa%20Wa%20Nuur%20April7%202013~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "6 - Silsilatu Hudaa Wa Nuur",
+              "audio_url": "https://daarulxadiith.com/mp3/Suaalo/06%20Silsilatu%20Hudaa%20Wa%20Nuur%20Nov17%202013~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "7 - Silsilatu Hudaa Wa Nuur",
+              "audio_url": "https://daarulxadiith.com/mp3/Suaalo/07%20Silsitul%20Hudaa%20Wan%20Nuur%20Feb22%202014~%20Sh.%20Xassaan.mp3"
+            }
+          ]
         }
       ]
     }
   ]
 }
+
