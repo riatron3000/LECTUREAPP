@@ -21,7 +21,7 @@
             {
               "id": 3,
               "title": "Axkaamta Soonka",
-              "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Sh_Xassaan%20Xuseen/Axkaamta%20Soonka~%20Sh.%20Xassaan.mp3" 
+              "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Sh_Xassaan%20Xuseen/Axkaamta%20Soonka~%20Sh.%20Xassaan.mp3"
             },
             {
               "id": 4,
@@ -101,33 +101,40 @@
           ]
         },
         {
-          "playlist_name":"Muxaadarooyinka Taxanaha Ah Ee Sheekha Oo Dhameystiran",
+          "playlist_name": "Muxaadarooyinka Taxanaha Ah Ee Sheekha Oo Dhameystiran",
           "playlist_description": "",
-          "lectures": [
+          "is_folder": true,
+          "sub_playlists": [
             {
-              "id": 1,
-              "title": "01: Al-Qawlul Ammiin Fii Saddi Al Cudwaanil Mubiin",
-              "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Al_Qawlul_Amiin/01%20Al-%20Qawlul%20Ammiin%20Fii%20Saddi%20Al%20Cudwaanil%20Mubiin~%20Sh.%20Xassaan.mp3"
-            },
-            {
-              "id": 2,
-              "title": "02: Al-Qawlul Ammiin Fii Saddi Al Cudwaanil Mubiin",
-              "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Al_Qawlul_Amiin/02%20Al-%20Qawlul%20Ammiin%20Fii%20Saddi%20Al%20Cudwaanil%20Mubiin~%20Sh.%20Xassaan.mp3"
-            },
-            {
-              "id": 3,
-              "title": "03: Al-Qawlul Ammiin Fii Saddi Al Cudwaanil Mubiin",
-              "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Al_Qawlul_Amiin/03%20Al-%20Qawlul%20Ammiin%20Fii%20Saddi%20Al%20Cudwaanil%20Mubiin~%20Sh.%20Xassaan.mp3"
-            },
-            {
-              "id": 4,
-              "title": "04: Al-Qawlul Ammiin Fii Saddi Al Cudwaanil Mubiin",
-              "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Al_Qawlul_Amiin/04%20Al-%20Qawlul%20Ammiin%20Fii%20Saddi%20Al%20Cudwaanil%20Mubiin~%20Sh.%20Xassaan.mp3"
-            },
-            {
-              "id": 5,
-              "title": "05: Al-Qawlul Ammiin Fii Saddi Al Cudwaanil Mubiin",
-              "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Al_Qawlul_Amiin/05%20Al-%20Qawlul%20Ammiin%20Fii%20Saddi%20Al%20Cudwaanil%20Mubiin~%20Sh.%20Xassaan.mp3"
+              "playlist_name": "Al-Qawlul Ammiin Fii Saddi Al Cudwaanil Mubiin",
+              "playlist_description": "",
+              "lectures": [
+                {
+                  "id": 1,
+                  "title": "01: Al-Qawlul Ammiin Fii Saddi Al Cudwaanil Mubiin",
+                  "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Al_Qawlul_Amiin/01%20Al-%20Qawlul%20Ammiin%20Fii%20Saddi%20Al%20Cudwaanil%20Mubiin~%20Sh.%20Xassaan.mp3"
+                },
+                {
+                  "id": 2,
+                  "title": "02: Al-Qawlul Ammiin Fii Saddi Al Cudwaanil Mubiin",
+                  "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Al_Qawlul_Amiin/02%20Al-%20Qawlul%20Ammiin%20Fii%20Saddi%20Al%20Cudwaanil%20Mubiin~%20Sh.%20Xassaan.mp3"
+                },
+                {
+                  "id": 3,
+                  "title": "03: Al-Qawlul Ammiin Fii Saddi Al Cudwaanil Mubiin",
+                  "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Al_Qawlul_Amiin/03%20Al-%20Qawlul%20Ammiin%20Fii%20Saddi%20Al%20Cudwaanil%20Mubiin~%20Sh.%20Xassaan.mp3"
+                },
+                {
+                  "id": 4,
+                  "title": "04: Al-Qawlul Ammiin Fii Saddi Al Cudwaanil Mubiin",
+                  "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Al_Qawlul_Amiin/04%20Al-%20Qawlul%20Ammiin%20Fii%20Saddi%20Al%20Cudwaanil%20Mubiin~%20Sh.%20Xassaan.mp3"
+                },
+                {
+                  "id": 5,
+                  "title": "05: Al-Qawlul Ammiin Fii Saddi Al Cudwaanil Mubiin",
+                  "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Al_Qawlul_Amiin/05%20Al-%20Qawlul%20Ammiin%20Fii%20Saddi%20Al%20Cudwaanil%20Mubiin~%20Sh.%20Xassaan.mp3"
+                }
+              ]
             }
           ]
         }
@@ -167,7 +174,7 @@
               "id": 1,
               "title": "Qabiilka",
               "audio_url": "https://www.alimuse.com/Boqolsoon/Qabiilka.mp3"
-            }, 
+            },
             {
               "id": 2,
               "title": "Sxirka",
@@ -192,6 +199,5 @@
         }
       ]
     }
-
   ]
 }
