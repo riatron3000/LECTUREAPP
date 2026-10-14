@@ -20,6 +20,9 @@ with open("whatsnew.json", "r") as f:
 with open("qanda.json", "r") as f:
     qanda = json.load(f)
 
+with open("pdfs.json", "r") as f:
+    pdfs = json.load(f)
+
 
 @app.get("/playlist")
 def get_playlist():
@@ -36,6 +39,11 @@ def get_new():
 @app.get("/qanda")
 def get_qanda():
     return qanda
+
+@app.get("/pdfs")
+def get_pdfs():
+    return pdfs
+
 
 @app.get("/version")
 def get_version():
