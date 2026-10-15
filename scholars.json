@@ -135,6 +135,22 @@
                   "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Al_Qawlul_Amiin/05%20Al-%20Qawlul%20Ammiin%20Fii%20Saddi%20Al%20Cudwaanil%20Mubiin~%20Sh.%20Xassaan.mp3"
                 }
               ]
+            },
+            {
+              "playlist_name": "Axkaamta Xajka & Cumrada",
+              "playlist_description": "",
+              "lectures": [
+                {
+                  "id": 1,
+                  "title": "01: Axkaamta Xajka & Cumrada",
+                  "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Axkamta_Xajjka_Iyo_Cumrada/01%20Axkaamta%20Xajj-ka%20%26%20Cumrada-%20Sh.%20Xassaan.mp3"
+                },
+                {
+                  "id": 2,
+                  "title": "02: Axkaamta Xajka & Cumrada",
+                  "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Axkamta_Xajjka_Iyo_Cumrada/02%20Axkaamta%20Xajj-ka%20%26%20Cumrada-%20Sh.%20Xassaan.mp3"
+                }
+              ]
             }
           ]
         }
