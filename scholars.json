@@ -107,7 +107,7 @@
           "sub_playlists": [
             {
               "playlist_name": "Al-Qawlul Ammiin Fii Saddi Al Cudwaanil Mubiin",
-              "playlist_description": "",
+              "playlist_description": "Jawaabta Sheekha oo khuseysa wixii dhex maray Sheekh Xassaan Xuseen iyo hoggaanka bahda Al-Ictisaam",
               "lectures": [
                 {
                   "id": 1,
@@ -138,7 +138,7 @@
             },
             {
               "playlist_name": "Axkaamta Xajka & Cumrada",
-              "playlist_description": "",
+              "playlist_description": "Muxaaradooyin oo uu Sheekh Xassaan Xuseen ku sharxayo tiirarka, waajibaadka, iyo sunnooyinka Xajka iyo Cumrada marka loo eego Fiqhiga Islaamka.",
               "lectures": [
                 {
                   "id": 1,
@@ -154,7 +154,7 @@
             },
             {
               "playlist_name": "Uhiilinta Nabiga SCW",
-              "playlist_description": "",
+              "playlist_description": "Muxaaradooyin ka hadlaya waajibaadka saaran Muslimka xagga weynaynta, jaceylka, iyo uhiilinta Nabiga (SCW) marka laga sheego gef ama aflagaado.",
               "lectures": [
                 {
                   "id": 1,
@@ -194,7 +194,7 @@
           "sub_playlists": [
             {
               "playlist_name": "Siiradii Dadkii Wanaagsanaa Markay Dhibtu Jirto",
-              "playlist_description": "",
+              "playlist_description": "Muxaaradooyin dhiirigelin ah oo ka sheekaynayo taariikhda iyo dulqaadkii dadkii suubanaayay ee na soo maray xilliyadii ay la kulmeen dhibaatooyinka iyo tijaabooyinka adag.",
               "lectures": [
                 {
                   "id": 1,
@@ -325,7 +325,7 @@
             },
             {
               "playlist_name": "Kalimatul Dayib",
-              "playlist_description": "",
+              "playlist_description": "Muxaaradooyin ka hadlayo fadliga kalmada wanaagsan, aadaabta hadalka, iyo dhowrista carabka marka loo eego tusaalooyinka diinta Islaamka.",
               "lectures": [
                 {
                   "id": 1,
