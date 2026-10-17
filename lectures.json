@@ -298,6 +298,144 @@
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Thalaatha/09%20Usuulu%20Thalathah%20Sh.%20Xassaan.mp3"
             }
           ]
+        },
+        {
+          "playlist_name": "Qawaacidul Arbaca",
+          "playlist_description": "Kutubkaan (Afarta Qawaaciidood) waa qoraal kooban oo ujeeddadiisa ah sharxitaanka nuxurka dhabta ah ee cibaadada iyo farqiga u dhexeeya Tawxiidka iyo Shirkiga.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Qawaacidul_Arbacah/01%20Qawacidu%20Arbacah%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Darsi 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Qawaacidul_Arbacah/02%20Qawacid%20Arbacah%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title":"Darsi 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Qawaacidul_Arbacah/03%20Qawacid%20Arbacah%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        },
+        {
+          "playlist_name": "Kashfu Shubahat",
+          "playlist_description": "Ujeeddada kutubkaan waa u hiilinta Towxiidka iyo in mid mid loo buriyo shakiyada iyo doodaha ay adeegsadaan dadka ku kaca shirkiga. Kitaabku wuxuu si gaar ah u iftiimiyaa, kana jawabaa fikradaha qaldan ee dadka barya qabuuraha, u yeerta awliyada, ama ka dhigta wax dhex-dhexaadiya iyaga iyo Alle.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/01%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title":"Darsi 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/02%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Darsi 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/03%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title":"Darsi 4",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/04%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Darsi 5",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/05%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Darsi 6",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/06%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Darsi 7",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/07%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 8,
+              "title": "Darsi 8",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/08%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 9,
+              "title": "Darsi 9",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/09%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 10,
+              "title": "Darsi 10",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/10%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 11,
+              "title": "Darsi 11",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/11%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 12,
+              "title": "Darsi 12",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/12%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        },
+        {
+          "playlist_name": "Nawaaqidul Islaam",
+          "playlist_description": "Nawaaqidul Islaam waa kutub ku saabsan Caqiidada, ujeeddadiisuna tahay inuu iftiimiyo tobanka arrimood ee buriya Islaamnimada qofka kalana saara iimaanka iyo dhalanteedka.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/01%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 2,
+              "title": "Darsi 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/02%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 3,
+              "title": "Darsi 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/03%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 4,
+              "title": "Darsi 4",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/04%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 5,
+              "title": "Darsi 5",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/05%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 6,
+              "title": "Darsi 6",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/06%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 7,
+              "title": "Darsi 7",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/07%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 8,
+              "title": "Darsi 8",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/08%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 9,
+              "title": "Darsi 9",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/09%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
+            }
+          ]
         }
       ]
     },
