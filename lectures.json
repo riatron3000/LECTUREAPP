@@ -1,9 +1,8 @@
-{ 
+{
   "subjects": [
     {
-      "name": "Fiqh",
+      "name": "Usuulu Fiqh",
       "playlists": [
-
         {
           "playlist_name": "Al-Waraqaat",
           "playlist_description": "Al-Waraqaat waa mid ka mid ah kutubta caanka oo quseeya cilmiga Uusuul al-Fiqh (Aasaaska Diinta). Waa kitaab kooban u adeegaa fahamsiiska: xukunnada shareecada, daliillada (Quraanka, Sunnada, Ijmaaca, iyo Qiyaasta), iyo hababka laga soo saaro xukunnada (Ijtihad).",
@@ -155,7 +154,127 @@
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Minhaajul_Wusuul/13%20Minhaajul%20Wusuul%20ilaa%20Cilmul%20Usuul~Sh.%20Xassaan.mp3"
             }
           ]
-          
+        },
+        {
+          "playlist_name": "Miftaaxul Wusuul Ilaa Binaa’il Furuuci Calal Usuul",
+          "playlist_description": "Kitaabku wuxuu ka hadlayaa xiriirka ka dhexeeya Usuulul-Fiqh iyo Fiqiga, isagoo muujinaya sida xeerarka usuulku saldhig ugu yihiin fahamka iyo soo saarista xukunnada shareecada. Wuxuu akhristaha barayaa sida loo fahmo daliillada shareecada, sida Qur’aanka iyo Sunnada, iyo sida loogu dabaqo arrimaha fiqiga.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/01%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Darsi 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/02%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Darsi 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/03%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Darsi 4",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/04%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Darsi 5",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/05%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Darsi 6",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/06%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Darsi 7",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/07%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Darsi 8",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/08%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Darsi 9",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/09%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Darsi 10",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/10%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Darsi 11",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/11%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 12,
+              "title": "Darsi 12",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/12%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 13,
+              "title": "Darsi 13",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/13%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 14,
+              "title": "Darsi 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/14%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 15,
+              "title": "Darsi 15",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/15%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 16,
+              "title": "Darsi 16",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/16%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 17,
+              "title": "Darsi 17",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/17%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 18,
+              "title": "Darsi 18",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/18%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 19,
+              "title": "Darsi 19",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/19%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 20,
+              "title": "Darsi 20",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/20%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 21,
+              "title": "Darsi 21",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/21%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 22,
+              "title": "Darsi 22",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/22%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 23,
+              "title": "Darsi 23",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Miftaaxul_Wusuul/23%20Miftaaxul%20Wusuul%20Ilaa%20Binaa'il%20Furuuci%20Calal%20Usuul~%20Sh.%20Xassaan.mp3"
+            }
+          ]
         }
       ]
     },
@@ -168,77 +287,77 @@
           "lectures": [
             {
               "id": 1,
-              "title":"Darsi 1",
+              "title": "Darsi 1",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/01%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             },
             {
               "id": 2,
-              "title":"Darsi 2",
+              "title": "Darsi 2",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/02%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             },
             {
               "id": 3,
-              "title":"Darsi 3",
+              "title": "Darsi 3",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/03%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             },
             {
               "id": 4,
-              "title":"Darsi 4",
+              "title": "Darsi 4",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/04%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             },
             {
               "id": 5,
-              "title":"Darsi 5",
+              "title": "Darsi 5",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/05%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             },
             {
               "id": 6,
-              "title":"Darsi 6",
+              "title": "Darsi 6",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/06%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             },
             {
               "id": 7,
-              "title":"Darsi 7",
+              "title": "Darsi 7",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/07%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             },
             {
               "id": 8,
-              "title":"Darsi 8",
+              "title": "Darsi 8",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/08%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             },
             {
               "id": 9,
-              "title":"Darsi 9",
+              "title": "Darsi 9",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/09%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             },
             {
               "id": 10,
-              "title":"Darsi 10",
+              "title": "Darsi 10",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/10%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             },
             {
               "id": 11,
-              "title":"Darsi 11",
+              "title": "Darsi 11",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/11%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             },
             {
               "id": 12,
-              "title":"Darsi 12",
+              "title": "Darsi 12",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/12%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             },
             {
               "id": 13,
-              "title":"Darsi 13",
+              "title": "Darsi 13",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/13%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             },
             {
               "id": 14,
-              "title":"Darsi 14",
+              "title": "Darsi 14",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/14%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             },
             {
               "id": 15,
-              "title":"Darsi 15",
+              "title": "Darsi 15",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Muqadimatu_At_Tafsiir/15%20Muqadamatu%20Al-Tafsiir~Sh.%20Xassaan.mp3"
             }
           ]
@@ -315,7 +434,7 @@
             },
             {
               "id": 3,
-              "title":"Darsi 3",
+              "title": "Darsi 3",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Qawaacidul_Arbacah/03%20Qawacid%20Arbacah%20Sh.%20Xassaan.mp3"
             }
           ]
@@ -331,7 +450,7 @@
             },
             {
               "id": 2,
-              "title":"Darsi 2",
+              "title": "Darsi 2",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/02%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
             },
             {
@@ -341,7 +460,7 @@
             },
             {
               "id": 4,
-              "title":"Darsi 4",
+              "title": "Darsi 4",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/04%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
             },
             {
@@ -359,27 +478,27 @@
               "title": "Darsi 7",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/07%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 8,
               "title": "Darsi 8",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/08%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 9,
               "title": "Darsi 9",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/09%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 10,
               "title": "Darsi 10",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/10%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 11,
               "title": "Darsi 11",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/11%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 12,
               "title": "Darsi 12",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kashfu_Shubahaat/12%20Kashfu%20Shubuhaat~%20Sh.%20Xassaan.mp3"
@@ -395,45 +514,76 @@
               "title": "Darsi 1",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/01%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 2,
               "title": "Darsi 2",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/02%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 3,
               "title": "Darsi 3",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/03%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 4,
               "title": "Darsi 4",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/04%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 5,
               "title": "Darsi 5",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/05%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 6,
               "title": "Darsi 6",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/06%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 7,
               "title": "Darsi 7",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/07%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 8,
               "title": "Darsi 8",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/08%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 9,
               "title": "Darsi 9",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nawaaqidul_Islaam/09%20Nawaaqidul%20Isalam%20%7C%7C%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        },
+        {
+          "playlist_name": "Usuulu Sittah",
+          "playlist_description": "Kitaabku wuxuu sharxayaa lix arrimood oo asaasi ah oo dad badan ay ku khaldameen ama ay fahamkooda ku kala duwanaadeen. Wuxuu xoogga saarayaa muhiimadda ay leedahay in diinta loo fahmo si waafaqsan Qur’aanka iyo Sunnada, iyadoo la tixgelinayo fahamka saxda ah ee arrimaha caqiidada iyo cibaadada.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Sitah/01%20Usuulu%20Sitah%20%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Darsi 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Sitah/02%20Usuulu%20Sitah%20%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Darsi 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Sitah/03%20Usuulu%20Sitah%20%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Darsi 4",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Sitah/04%20Usuulu%20Sitah%20%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Darsi 5",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Sitah/05%20Usuulu%20Sitah%20%20Sh.%20Xassaan.mp3"
             }
           ]
         }
@@ -696,17 +846,17 @@
           "lectures": [
             {
               "id": 1,
-              "title":"Darsi 1",
+              "title": "Darsi 1",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Qasiidatu_Cinwaanul_Xikam/01%20Qasiidatu%20Cunwaanul%20Xikam~%20Sh.%20Xassaan.mp3"
             },
             {
               "id": 2,
-              "title":"Darsi 2",
+              "title": "Darsi 2",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Qasiidatu_Cinwaanul_Xikam/02%20Qasiidatu%20Cunwaanul%20Xikam~%20Sh.%20Xassaan.mp3"
             },
             {
               "id": 3,
-              "title":"Darsi 3",
+              "title": "Darsi 3",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Qasiidatu_Cinwaanul_Xikam/03%20Qasiidatu%20Cunwaanul%20Xikam~%20Sh.%20Xassaan.mp3"
             }
           ]
@@ -751,5 +901,4 @@
       ]
     }
   ]
-
 }
