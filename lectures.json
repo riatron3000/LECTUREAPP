@@ -586,6 +586,298 @@
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Usuulu_Sitah/05%20Usuulu%20Sitah%20%20Sh.%20Xassaan.mp3"
             }
           ]
+        },
+        {
+          "playlist_name": "Kitaabu Tawxiid",
+          "playlist_description": "Kitaabku wuxuu si qoto dheer u sharxayaa macnaha Towxiidka iyo qaybihiisa. Sidoo kale, wuxuu si xooggan uga digaayaa Shirkiga iyo noocyadiisa kala duwan, hadday tahay shirki weyn ama mid yar.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/01%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Darsi 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/02%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Darsi 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/03%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Darsi 4",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/04%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Darsi 5",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/05%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Darsi 6",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/06%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Darsi 7",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/07%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Darsi 8",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/08%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Darsi 9",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/09%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Darsi 10",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/10%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Darsi 11",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/11%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 12,
+              "title": "Darsi 12",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/12%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 13,
+              "title": "Darsi 13",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/13%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 14,
+              "title": "Darsi 14",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/14%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 15,
+              "title": "Darsi 15",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/15%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 16,
+              "title": "Darsi 16",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/16%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 17,
+              "title": "Darsi 17",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/17%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 18,
+              "title": "Darsi 18",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/01%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 19,
+              "title": "Darsi 19",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/19%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 20,
+              "title": "Darsi 20",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/20%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 21,
+              "title": "Darsi 21",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/21%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 22,
+              "title": "Darsi 22",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/22%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 23,
+              "title": "Darsi 23",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/23%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 24,
+              "title": "Darsi 24",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/24%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 25,
+              "title": "Darsi 25",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/25%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 26,
+              "title": "Darsi 26",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/26%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 27,
+              "title": "Darsi 27",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/27%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 28,
+              "title": "Darsi 28",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/28%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 29,
+              "title": "Darsi 29",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/29%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 30,
+              "title": "Darsi 30",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/30%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 31,
+              "title": "Darsi 31",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/31%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 32,
+              "title": "Darsi 32",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/32%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 33,
+              "title": "Darsi 33",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/33%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 34,
+              "title": "Darsi 34",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/34%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 35,
+              "title": "Darsi 35",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/35%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 36,
+              "title": "Darsi 36",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/36%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 37,
+              "title": "Darsi 37",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/37%20Tawxiid%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 38,
+              "title": "Darsi 38",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Tawxiid/38%20Tawxiid%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        },
+        {
+          "playlist_name": "Kitaabu Sunnah",
+          "playlist_description": "Kitaabku wuxuu ka hadlayaa arrimo la xiriira caqiidada Islaamka, sida rumaynta sifooyinka Alle, ku dhaqanka Sunnada Nabiga iyo mowqifyada Ahlus-Sunnah ee ku saabsan arrimaha caqiidada. Wuxuu soo gudbinayaa axaadiis iyo athaar laga weriyey Nabiga, Saxaabada iyo culimadii hore.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/01%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Darsi 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/02%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Darsi 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/03%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Darsi 4",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/04%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Darsi 5",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/05%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Darsi 6",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/06%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Darsi 7",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/07%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Darsi 8",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/08%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Darsi 9",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/09%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Darsi 10",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/10%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Darsi 11",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/11%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 12,
+              "title": "Darsi 12",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/12%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 13,
+              "title": "Darsi 13",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/13%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 14,
+              "title": "Darsi 14",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/14%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 15,
+              "title": "Darsi 15",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/15%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 16,
+              "title": "Darsi 16",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/16%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 17,
+              "title": "Darsi 17",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/17%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 18,
+              "title": "Darsi 18",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Kitaabu_Sunnah_Li_Xarbi_Kirmaani/18%20Kitaabu%20Sunnah%20Li%20Xarbi%20Kirmaani~Sh.%20Xassaan.mp3"
+            }
+          ]
         }
       ]
     },
@@ -756,6 +1048,90 @@
               "id": 19,
               "title": "Xadiiska 393-415",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Shamaa'il_NEW/19%20Shamaa'ilu%20Muxammadiyah%20Xadiithka%20(393-415)~%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        },
+        {
+          "playlist_name": "Cumdatul Axkaam",
+          "playlist_description": "Kitaabkaani wuxuu ka mid yahay kutubta ugu muhiimsan ee loo adeegsado barashada axkaamta diinta Islaamka. Wuxuu ka kooban yahay axaadiis saxiix ah oo ka hadlaya xukunnada cibaadada iyo macaamalaadka iyo arimaha la xiriira nolosha Muslimka.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Xadiithka 1-7",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/01%20Cumdatul%20Axkaam%20Xadiithka%20(1-7)~%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 2,
+              "title": "Xadiithka 8-14",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/02%20Cumdatul%20Axkaam%20Xadiithka%20(8-14)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 3,
+              "title": "Xadiithka 15-22",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/03%20Cumdatul%20Axkaam%20Xadiithka%20(15-22)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 4,
+              "title": "Xadiithka 23-33",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/04%20Cumdatul%20Axkaam%20Xadiithka%20(23-33)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 5,
+              "title": "Xadiithka 34-41",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/05%20Cumdatul%20Axkaam%20Xadiithka%20(34-41)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 6,
+              "title": "Xadiithka 42-49",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/06%20Cumdatul%20Axkaam%20Xadiithka%20(42-49)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 7,
+              "title": "Xadiithka 50-61",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/07%20Cumdatul%20Axkaam%20Xadiithka%20(50-61)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 8,
+              "title": "Xadiithka 62-71",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/08%20Cumdatul%20Axkaam%20Xadiithka%20(62-71)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 9,
+              "title": "Xadiithka 72-85",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/09%20Cumdatul%20Axkaam%20Xadiithka%20(72-85)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 10,
+              "title": "Xadiithka 86-100",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/10%20Cumdatul%20Axkaam%20Xadiithka%20(86-100)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 11,
+              "title": "Xadiithka 101-111",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/11%20Cumdatul%20Axkaam%20Xadiithka%20(101-111)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 12,
+              "title": "Xadiithka 112-126",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/12%20Cumdatul%20Axkaam%20Xadiithka%20(112-126)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 13,
+              "title": "Xadiithka 127-137",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/13%20Cumdatul%20Axkaam%20Xadiithka%20(127-137)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 14,
+              "title": "Xadiithka 138-149",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/14%20Cumdatul%20Axkaam%20Xadiithka%20(138-149)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 15,
+              "title": "Xadiithka 150-158",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/15%20Cumdatul%20Axkaam%20Xadiithka%20(150-158)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 16,
+              "title": "Xadiithka 159-169",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/16%20Cumdatul%20Axkaam%20Xadiithka%20(159-169)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 17,
+              "title": "Xadiithka 170-179",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/17%20Cumdatul%20Axkaam%20Xadiithka%20(170-179)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 18,
+              "title": "Xadiithka 180-188",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/18%20Cumdatul%20Axkaam%20Xadiithka%20(180-188)~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 19,
+              "title": "Xadiithka 189-203",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/19%20Cumdatul%20Axkaam%20Xadiithka%20(189-203)~%20Sh.%20Xassaan.mp3"
             }
           ]
         }

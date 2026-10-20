@@ -167,6 +167,37 @@
                   "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Uhiilinta_Nabiga_SCW/02%20Uhiilinta%20Nabiga%20SCW~%20Sh.%20Xassaan%20Abuu%20Salmaan.mp3"
                 }
               ]
+            },
+            {
+              "playlist_name": "Bidcada Mawliidka",
+              "playlist_description": "",
+              "lectures": [
+                {
+                  "id": 1,
+                  "title": "O1: Bidcada Mawliidka",
+                  "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Bidcada_Mawliidka/01%20Bidcada%20Mawliidka~Sh.%20Xassaan%20Xuseen.mp3"
+                },
+                                {
+                  "id": 2,
+                  "title": "O2: Bidcada Mawliidka",
+                  "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Bidcada_Mawliidka/02%20Bidcada%20Mawliidka~Sh.%20Xassaan%20Xuseen.mp3"
+                },
+                                {
+                  "id": 3,
+                  "title": "O3: Bidcada Mawliidka",
+                  "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Bidcada_Mawliidka/03%20Bidcada%20Mawliidka~Sh.%20Xassaan%20Xuseen.mp3"
+                },
+                                {
+                  "id": 4,
+                  "title": "O4: Bidcada Mawliidka",
+                  "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Bidcada_Mawliidka/04%20Bidcada%20Mawliidka~Sh.%20Xassaan%20Xuseen.mp3"
+                },
+                                {
+                  "id": 5,
+                  "title": "O5: Bidcada Mawliidka",
+                  "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Bidcada_Mawliidka/05%20Bidcada%20Mawliidka~Sh.%20Xassaan%20Xuseen.mp3"
+                }
+              ]
             }
           ]
         }
