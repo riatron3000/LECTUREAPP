@@ -23,6 +23,9 @@ with open("qanda.json", "r") as f:
 with open("pdfs.json", "r") as f:
     pdfs = json.load(f)
 
+with open("ongoingseries.json", "r") as f:
+    pdfs = json.load(f)
+
 
 @app.get("/playlist")
 def get_playlist():
@@ -44,6 +47,11 @@ def get_qanda():
 def get_pdfs():
     return pdfs
 
+@app.get("/ongoingseries")
+def get_ongoingseries():
+    return pdfs
+
+
 
 @app.get("/version")
 def get_version():
@@ -58,7 +66,8 @@ def get_version():
         "lectures.json", 
         "scholars.json", 
         "whatsnew.json",
-        "qanda.json"
+        "qanda.json",
+        "ongoingseries.json"
     ]:
         with open(filename, "rb") as f:
             hasher.update(f.read())
