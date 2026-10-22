@@ -1,14 +1,18 @@
 {
-  "series_name": "Khalqi Afcaal Al Cibaad",
-  "lecturer": "Sh Xassaan Xuseen",
-  "videos": [
+  "series": [
     {
-      "id": "1",
-      "title": "Qaybta Koowaad",
-      "thumbnail": "https://img.youtube.com/vi/G21u1cFPyC8/hqdefault.jpg",
-      "videoId": "G21u1cFPyC8",
-      "videoSource": "youtube",
-      "publishedAt": "2026-10-08"
+      "name": "Khalqi Afcaal Al Cibaad",
+      "lecturer": "Sh Xassaan Xusseen",
+      "videos": [
+        {
+          "id": "1",
+          "title": "Qaybta Koowaad",
+          "thumbnail": "https://img.youtube.com/vi/G21u1cFPyC8/hqdefault.jpg",
+          "videoId": "G21u1cFPyC8",
+          "videoSource": "youtube",
+          "publishedAt": "2026-10-08"
+        }
+      ]
     }
   ]
 }
