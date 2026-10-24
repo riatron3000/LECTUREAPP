@@ -8,27 +8,27 @@
           "lectures": [
             {
               "id": "1",
-              "title": "01: Khalqi Afcaal al Cibaad",
-              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Al_Waraqaat/01%20Alwaraqaat~Sh.%20Xassaan.mp3",
+              "title": "Darsi 1",
+              "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/KhalqiAfcaal.m4a",
               "publishedAt": "2026-10-08"
             },
             {
               "id": "2",
-              "title": "02: Khalqi Afcaal al Cibaad",
-              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Al_Waraqaat/01%20Alwaraqaat~Sh.%20Xassaan.mp3",
-              "publishedAt": "2026-10-08"
+              "title": "Darsi 2",
+              "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/KhalqiAfcaal2.m4a",
+              "publishedAt": "2026-10-10"
             },
             {
               "id": "3",
-              "title": "03: Khalqi Afcaal al Cibaad",
-              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Al_Waraqaat/01%20Alwaraqaat~Sh.%20Xassaan.mp3",
-              "publishedAt": "2026-10-08"
+              "title": "Darsi 3",
+              "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/KhalqiAfcaal3.m4a",
+              "publishedAt": "2026-10-17"
             },
             {
               "id": "4",
-              "title": "04: Khalqi Afcaal al Cibaad",
-              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Al_Waraqaat/01%20Alwaraqaat~Sh.%20Xassaan.mp3",
-              "publishedAt": "2026-10-08"
+              "title": "Darsi 4",
+              "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/KhalqiAfcaal4.m4a",
+              "publishedAt": "2026-10-19"
             }
           ]
         }
