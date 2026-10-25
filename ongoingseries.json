@@ -34,6 +34,12 @@
               "id": "5",
               "title": "Darsi 5",
               "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/KhalqiAfcaal5.mp3",
+              "publishedAt": "2026-10-23"
+            },
+            {
+              "id": 6,
+              "title": "Darsi 6",
+              "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/KhalqiAfcaal6.m4a",
               "publishedAt": "2026-10-24"
             }
           ]
