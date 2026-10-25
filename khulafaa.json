@@ -1,0 +1,49 @@
+{
+  "seerah": [
+    {
+      "name": "Siira: Cumar ibn Khadaab iyo Abu Bakr (RA)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtzcCZvNB9D5NgiNabMboZgSwTbNBgaeLt2aIix1DrpqXm88GFoE23uUE&s=10",
+      "playlists": [
+        {
+          "playlist_name": "Dhacdooyinki Maalimihii Cumar iyo Abu Bakr (RA)",
+          "playlist_description": "",
+          "is_folder": true,
+          "sub_playlists": [
+            {
+              "playlist_name": "Siira: Cumar ibn Khadaab (RA)",
+              "playlist_description": "",
+              "lectures": [
+                {
+                  "id": 1,
+                  "title": "01: Cumar ibn Khadaab",
+                  "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/umariyoabubakr1.m4a"
+                },
+                {
+                  "id": 2,
+                  "title": "02: Cumar ibn Khadaab",
+                  "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/umariyoabubakr2.m4a"
+                }
+              ]
+            },
+                        {
+              "playlist_name": "Siira: Abu Bakr (RA)",
+              "playlist_description": "",
+              "lectures": [
+                {
+                  "id": 1,
+                  "title": "01: Abu Bakr (RA)",
+                  "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/umariyoabubakr1.m4a"
+                },
+                {
+                  "id": 2,
+                  "title": "02: Abu Bakr (RA)",
+                  "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/umariyoabubakr2.m4a"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
