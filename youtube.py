@@ -3,6 +3,8 @@ import re
 import json
 import requests
 
+from helper import format_video_duration
+
 YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
 CHANNEL_ID = "UC6I30jm-TlamEB9H6kQMbdw"
 
@@ -85,15 +87,18 @@ def update_youtube():
         snippet = video["snippet"]
         details = video["contentDetails"]
 
-        match = re.search(
-            r"PT(?:(\d+)M)?",
-            details["duration"]
-        )
+        # match = re.search(
+        #     r"PT(?:(\d+)M)?",
+        #     details["duration"]
+        # )
+
+        # format_video_duration(details["duration"])
 
         duration = (
-            int(match.group(1) or 0)
-            if match
-            else 0
+            # int(match.group(1) or 0)
+            # if match
+            # else 0
+            format_video_duration(details["duration"])
         )
 
         new_data["whats_new"].append({
