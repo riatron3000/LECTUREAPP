@@ -2,8 +2,11 @@ import isodate
 
 def format_video_duration(duration):
     try:
+        # Parse the ISO 8601 string into a Python timedelta object
+        # Changed variable name from 'timedelta' to 'td' to avoid naming conflicts
         timedelta = isodate.parse_duration(duration)
-                # Calculate total minutes from the total seconds
+        
+        # Calculate total minutes from the total seconds
         total_minutes = int(timedelta.total_seconds() // 60)
         
         # Split into hours and remaining minutes
