@@ -5,18 +5,49 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtzcCZvNB9D5NgiNabMboZgSwTbNBgaeLt2aIix1DrpqXm88GFoE23uUE&s=10",
       "playlists": [
         {
-          "playlist_name": "Dhacdooyinki Maalimihii Abu Bakr iyo Cumar (RC)",
+          "playlist_name": "Dhacdooyinki Maalimihii Abu Bakr as Siddiiq (RC)",
           "playlist_description": "Taxanahan wuxuu ka warramayaa dhacdooyin taariikhi ah oo la xiriira noloshii iyo waayihii labada khaliif ee ugu horreeyey Khulafaa’u Raashidiinta, Abuu Bakr As-Siddiiq iyo Cumar ibnu Khaddaab (RC)",
           "lectures": [
             {
               "id": 1,
-              "title": "01: Abu Bakr as Siddiiq iyo Cumar ibnu Khaddaab (RC) ",
-              "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/umariyoabubakr1.m4a"
+              "title": "01: Abu Bakr as Siddiiq (RC)",
+              "audio_url": "https://pub-2c0ade6f9fa84122a0b0777a5d584e45.r2.dev/abubakr/khulafaa_abubakr1.m4a"
             },
             {
               "id": 2,
-              "title": "02: Abu Bakr as Siddiiq iyo Cumar ibnu Khaddaab (RC) ",
-              "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/umariyoabubakr2.m4a"
+              "title": "02: Abu Bakr as Siddiiq (RC)",
+              "audio_url": "https://pub-2c0ade6f9fa84122a0b0777a5d584e45.r2.dev/abubakr/khulafaa_abubakr2.m4a"
+            },
+            {
+              "id": 3,
+              "title": "03: Abu Bakr as Siddiiq (RC)",
+              
+            }
+          ]
+        },
+        {
+          "playlist_name": "Dhacdooyinki Maalimihii Cumar ibnu Khaddaab (RC)",
+          "playlist_description": "Taxanahan wuxuu ka warramayaa dhacdooyin taariikhi ah oo la xiriira noloshii iyo waayihii labada khaliif ee ugu horreeyey Khulafaa’u Raashidiinta, Abuu Bakr As-Siddiiq iyo Cumar ibnu Khaddaab (RC)",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "01: Cumar ibnu Khaddaab (RC)",
+              "audio_url": "https://pub-2c0ade6f9fa84122a0b0777a5d584e45.r2.dev/umar/khulafaa_umar1.m4a"
+            },
+            {
+              "id": 2,
+              "title": "02: Cumar ibnu Khaddaab (RC)",
+              "audio_url": "https://pub-2c0ade6f9fa84122a0b0777a5d584e45.r2.dev/umar/khulafaa_umar2.m4a"
+            },
+            {
+              "id": 3,
+              "title": "03: Cumar ibnu Khaddaab (RC)",
+              "audio_url": "https://pub-2c0ade6f9fa84122a0b0777a5d584e45.r2.dev/umar/khulafaa_umar3.m4a"
+            },
+            {
+              "id": 4,
+              "title": "04: Cumar ibnu Khaddaab (RC)",
+              "audio_url": "https://pub-2c0ade6f9fa84122a0b0777a5d584e45.r2.dev/umar/khulafaa_umar4.m4a"
             }
           ]
         }
