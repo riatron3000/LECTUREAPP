@@ -21,7 +21,7 @@
             {
               "id": 3,
               "title": "03: Abu Bakr as Siddiiq (RC)",
-              
+              "audio_url": "https://pub-2c0ade6f9fa84122a0b0777a5d584e45.r2.dev/abubakr/khulafaa_abubakr3.m4a"
             }
           ]
         }
@@ -29,7 +29,7 @@
     },
     {
       "name": "Cumar ibn Khaddaab",
-      "image": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtzcCZvNB9D5NgiNabMboZgSwTbNBgaeLt2aIix1DrpqXm88GFoE23uUE&s=10",
       "playlists": [
         {
           "playlist_name": "Dhacdooyinki Maalimihii Cumar ibnu Khaddaab (RC)",
