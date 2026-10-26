@@ -1,7 +1,7 @@
 {
   "seerah": [
     {
-      "name": "Siira: Abu Bakr as Siddiiq iyo Cumar ibnu Khaddaab (RC)",
+      "name": "Abu Bakr as Siddiiq",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtzcCZvNB9D5NgiNabMboZgSwTbNBgaeLt2aIix1DrpqXm88GFoE23uUE&s=10",
       "playlists": [
         {
@@ -24,7 +24,13 @@
               
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Cumar ibn Khaddaab",
+      "image": "",
+      "playlists": [
         {
           "playlist_name": "Dhacdooyinki Maalimihii Cumar ibnu Khaddaab (RC)",
           "playlist_description": "Taxanahan wuxuu ka warramayaa dhacdooyin taariikhi ah oo la xiriira noloshii iyo waayihii labada khaliif ee ugu horreeyey Khulafaa’u Raashidiinta, Abuu Bakr As-Siddiiq iyo Cumar ibnu Khaddaab (RC)",
@@ -44,7 +50,7 @@
               "title": "03: Cumar ibnu Khaddaab (RC)",
               "audio_url": "https://pub-2c0ade6f9fa84122a0b0777a5d584e45.r2.dev/umar/khulafaa_umar3.m4a"
             },
-            {
+                        {
               "id": 4,
               "title": "04: Cumar ibnu Khaddaab (RC)",
               "audio_url": "https://pub-2c0ade6f9fa84122a0b0777a5d584e45.r2.dev/umar/khulafaa_umar4.m4a"
