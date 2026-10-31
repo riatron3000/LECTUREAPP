@@ -1060,78 +1060,207 @@
               "title": "Xadiithka 1-7",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/01%20Cumdatul%20Axkaam%20Xadiithka%20(1-7)~%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 2,
               "title": "Xadiithka 8-14",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/02%20Cumdatul%20Axkaam%20Xadiithka%20(8-14)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 3,
               "title": "Xadiithka 15-22",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/03%20Cumdatul%20Axkaam%20Xadiithka%20(15-22)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 4,
               "title": "Xadiithka 23-33",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/04%20Cumdatul%20Axkaam%20Xadiithka%20(23-33)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 5,
               "title": "Xadiithka 34-41",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/05%20Cumdatul%20Axkaam%20Xadiithka%20(34-41)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 6,
               "title": "Xadiithka 42-49",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/06%20Cumdatul%20Axkaam%20Xadiithka%20(42-49)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 7,
               "title": "Xadiithka 50-61",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/07%20Cumdatul%20Axkaam%20Xadiithka%20(50-61)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 8,
               "title": "Xadiithka 62-71",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/08%20Cumdatul%20Axkaam%20Xadiithka%20(62-71)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 9,
               "title": "Xadiithka 72-85",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/09%20Cumdatul%20Axkaam%20Xadiithka%20(72-85)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 10,
               "title": "Xadiithka 86-100",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/10%20Cumdatul%20Axkaam%20Xadiithka%20(86-100)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 11,
               "title": "Xadiithka 101-111",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/11%20Cumdatul%20Axkaam%20Xadiithka%20(101-111)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 12,
               "title": "Xadiithka 112-126",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/12%20Cumdatul%20Axkaam%20Xadiithka%20(112-126)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 13,
               "title": "Xadiithka 127-137",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/13%20Cumdatul%20Axkaam%20Xadiithka%20(127-137)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 14,
               "title": "Xadiithka 138-149",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/14%20Cumdatul%20Axkaam%20Xadiithka%20(138-149)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 15,
               "title": "Xadiithka 150-158",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/15%20Cumdatul%20Axkaam%20Xadiithka%20(150-158)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 16,
               "title": "Xadiithka 159-169",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/16%20Cumdatul%20Axkaam%20Xadiithka%20(159-169)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 17,
               "title": "Xadiithka 170-179",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/17%20Cumdatul%20Axkaam%20Xadiithka%20(170-179)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 18,
               "title": "Xadiithka 180-188",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/18%20Cumdatul%20Axkaam%20Xadiithka%20(180-188)~%20Sh.%20Xassaan.mp3"
-            },            {
+            },
+            {
               "id": 19,
               "title": "Xadiithka 189-203",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Cumdatul_Axkaam/19%20Cumdatul%20Axkaam%20Xadiithka%20(189-203)~%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        },
+        {
+          "playlist_name": "Adabul Mufrad",
+          "playlist_description": "",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Xadiithka 1-9",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Adabul_Mufrad/01%20Adabul%20Mufrad%20Xadiithka%20(1-9)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Xadiithka 10-18",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Adabul_Mufrad/02%20Adabul%20Mufrad%20Xadiithka%20(10-18)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Xadiithka 19-32",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Adabul_Mufrad/03%20Adabul%20Mufrad%20Xadiithka%20(19-32)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Xadiithka 33-44",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Adabul_Mufrad/04%20Adabul%20Mufrad%20Xadiithka%20(33-44)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Xadiithka 45-60",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Adabul_Mufrad/05%20Adabul%20Mufrad%20Xadiithka%20(61-75)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Xadiithka 61-75",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Adabul_Mufrad/06%20Adabul%20Mufrad%20Xadiithka%20(61-75)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Xadiithka 76-88",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Adabul_Mufrad/07%20Adabul%20Mufrad%20Xadiithka%20(76-88)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Xadiithka 88-110",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Adabul_Mufrad/08%20Adabul%20Mufrad%20Xadiithka%20(88-110)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Xadiithka 111-130",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Adabul_Mufrad/09%20Adabul%20Mufrad%20Xadiithka%20(111-130)~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Xadiithka 131-146",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Adabul_Mufrad/10%20Adabul%20Mufrad%20Xadiithka%20(131-146)~%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        },
+        {
+          "playlist_name": "Sunan Ibnu Maajah",
+          "playlist_description": "",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Xadiithka 1-15",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Sunanu_Ibnu_Maajah/001%20Ibnu%20Maajah%20Xadiithka%20(1-15-)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Xadiithka 16-51",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Sunanu_Ibnu_Maajah/002%20Ibnu%20Maajah%20Xadiithka%20(16-51)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Xadiithka 52-76",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Sunanu_Ibnu_Maajah/003%20Ibnu%20Maajah%20Xadiithka%20(52-76)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Xadiithka 77-121",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Sunanu_Ibnu_Maajah/004%20Ibnu%20Maajah%20Xadiithka%20(77-121)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Xadiithka 122-62",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Sunanu_Ibnu_Maajah/005%20Ibnu%20Maajah%20Xadiithka%20(122-162)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Xadiithka 163-191",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Sunanu_Ibnu_Maajah/006%20Ibnu%20Maajah%20Xadiithka%20(163-191)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Xadiithka 192-236",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Sunanu_Ibnu_Maajah/007%20Ibnu%20Maajah%20Xadiithka%20(192-236)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Xadiithka 237-286",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Sunanu_Ibnu_Maajah/008%20Ibnu%20Maajah%20Xadiithka%20(237-286)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Xadiithka 287-336",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Sunanu_Ibnu_Maajah/009%20Ibnu%20Maajah%20Xadiithka%20(287-336)~Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Xadiithka 337-383",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Sunanu_Ibnu_Maajah/010%20Ibnu%20Maajah%20Xadiitka%20(337-383)~%20Sh.%20Xassaan.mp3"
             }
           ]
         }
